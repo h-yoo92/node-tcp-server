@@ -1,0 +1,21 @@
+{
+  "name": "tcp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server:start": "node server.mjs",
+    "client:start": "node client.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hy-yoo/node-tcp-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hy-yoo/node-tcp-server/issues"
+  },
+  "homepage": "https://github.com/hy-yoo/node-tcp-server#readme"
+}
